@@ -1,0 +1,4 @@
+This code provides two classes for processing Paypal transaction information: 
+One for Payment Data Transfer (PDT) and the other for Instant Payment Notification (IPN). 
+
+For usage examples, see http://jgb146.blogspot.com/2012/06/paypal-ipn-and-pdt-in-aspnet.html
